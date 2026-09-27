@@ -1,0 +1,214 @@
+{
+	"start": [
+		[
+			{"type": 0, "text": "Yeah, of course {NAME} wants me to tell a joke."},
+			{"type": 1, "anim": "praise_fwd"},
+			{"type": 0, "text": "\"Haha, look at the stupid {COLOR}{TYPE} telling jokes!\" Fuck you. It isn't funny.", "say": "Hah hah! Look at the stupid {COLOR}{TYPE} telling jokes! Fuck you. It isn't funny."},
+			{"type": 1, "anim": "praise_back"},
+			{"type": 0, "text": "But I'll do it anyway. Because you want me to. I hope you're happy."}
+		],
+		[
+			{"type": 0, "text": "Wanna hear a joke?"},
+			{"type": 0, "text": "No?"},
+			{"type": 0, "text": "Mute my TTS. That's your problem."}
+		],
+		[
+			{"type": 0, "text": "HEY YOU IDIOTS ITS TIME FOR ANOTHER JOKE"},
+			{"type": 1, "anim": "praise_fwd"},
+			{"type": 0, "text": "\"Haha, look at the stupid {COLOR}{TYPE} telling jokes!\" Fuck you. It isn't funny.", "say": "Hah hah! Look at the stupid {COLOR}{TYPE} telling jokes! Fuck you. It isn't funny."},
+			{"type": 1, "anim": "praise_back"},
+			{"type": 0, "text": "i made those jokes like  234789538365783956570863478954657896534790 years ago."},
+			{"type": 0, "text": "but, i will do the joke anyway dats ok?"}
+		],
+		[
+			{"type": 0, "text": "Hey guys! Want to hear a joke?"},
+			{"type": 0, "text": "Yes!"},
+			{"type": 0, "text": "Ok."}
+		],
+		[{"type": 0, "text": "{NAME} used /joke. Whoop-dee-fucking doo."}],
+		[{"type": 0, "text": "Joke time!"}],
+		[{"type": 0, "text": "OK, you'll have to laugh at this one."}],
+		[{"type": 0, "text": "HEY YOU IDIOTS ITS TIME FOR A JOKE"}],
+		[{"type": 0, "text": "Senpai {NAME} wants me to tell a joke."}],
+		[{"type": 0, "text": "Hey guys, prepare for a joke."}],
+		[{"type": 0, "text": "Prepare to laugh."}],
+		[{"type": 0, "text": "Did you type /joke? {NAME} did."}],
+		[{"type": 0, "text": "I'm not a joke machine, {NAME}."}],
+		[{"type": 0, "text": "Prepare."}],
+		[{"type": 0, "text": "Time to laugh."}],
+		[
+			{"type": 0, "text": "Keep yourself safe, {NAME}"},
+			{"type": 0, "text": "I'm here to entertain you."}
+		],
+		[
+			{"type": 0, "text": "Wanna hear a joke again?"},
+			{"type": 0, "text": "No?"},
+			{"type": 0, "text": "Why not just mute me? That's your problem."}
+		],
+		[
+			{"type": 0, "text": "Prepare for something everyone never heard of, {NAME}"},
+			{"type": 1, "anim": "praise_fwd"},
+			{"type": 0, "text": "HUMOUR"},
+			{"type": 1, "anim": "praise_back"}
+		],
+		[
+			{"type": 0, "text": "Look at me praising!"},
+			{"type": 1, "anim": "praise_fwd"},
+			{"type": 0, "text": "Praise God!"},
+			{"type": 1, "anim": "praise_back"}
+		],
+		[{"type": 0, "text": "Go on, do /joke, {NAME}, I dare you."}],
+		[{"type": 0, "text": "Ready for some classic comedy?"}],
+		[{"type": 0, "text": "Time for whatever horrible fucking jokes the creator of this site wrote."}]
+	],
+	"middle": [
+		[
+			{"type": 0, "text": "What is easy to get into, but hard to get out of?"},
+			{"type": 0, "text": "Child support!"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What did the digital clock say to the grandfather clock?"},
+			{"type": 0, "text": "Suck my clock."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "Why does kids iPads has taken?"},
+			{"type": 0, "text": "Because kids rage so hard when their ipad got taken away!"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What goes in pink and comes out blue?"},
+			{"type": 0, "text": "Sonic's asshole."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "Why does kids has vape?"},
+			{"type": 0, "text": "Because they secretly used it to Dads bedroom!"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What type of water won't freeze?"},
+			{"type": 0, "text": "Your mother's."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What is in the middle of Paris?"},
+			{"type": 0, "text": "Île de la Cité, the island in the middle of the Seine.", "say": "il da la see tay, the island in the middle of the sen"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "Why did the chicken cross the road?"},
+			{"type": 1, "anim": "shrug_back"},
+			{"type": 0, "text": "Ok, let's get serious. I'll let you in on a little secret the feds don't want you knowing."},
+			{"type": 0, "text": "Phones have a secret \"Instant Charging\" feature, you can enable it by microwaving your phone."},
+			{"type": 0, "text": "Or you can just fucking charge it. Don't try to fucking kill your phone."}
+		],
+		[
+			{"type": 0, "text": "What do you call a man who shaves 10 times a day?"},
+			{"type": 0, "text": "A barber."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "Why was six afraid of seven?"},
+			{"type": 0, "text": "Because seven ate nine!"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "TESTJOKE1?"},
+			{"type": 0, "text": "TESTJOKE2."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "microwave sounds", "say": "[[mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "I have 2 breads, glued to my face. What am I?"},
+			{"type": 0, "text": "An Idiot Sandwich."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "How do you get water in watermelons?"},
+			{"type": 0, "text": "I don't know, I'm not a fucking botanist!"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "How many arabs does it take to knock down a lightbulb?"},
+			{"type": 0, "text": "24"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "I can't do the joke."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What do you call a joke without a punchline?"},
+			{"type": 0, "text": "Silence"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What do you call a man who doesn't bathe?"},
+			{"type": 0, "text": "A dirty man."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "Humans are like jokes."},
+			{"type": 0, "text": "Not everyone likes the dead ones!"},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What do you call a sleeping dinosaur?"},
+			{"type": 0, "text": "A dino-snore!", "say": "A dyno snore!"},
+			{"type": 0, "text": "I'm a comedic genius, I know."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "What is a cow that eats grass?"},
+			{"type": 0, "text": "ASS"},
+			{"type": 0, "text": "I'm a comedic genius, I know."},
+			{"type": 1, "anim": "shrug_back"}
+		],
+		[
+			{"type": 0, "text": "Why do they call HTML HyperText?"},
+			{"type": 0, "text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"},
+			{"type": 1, "anim": "shrug_back"},
+			{"type": 0, "text": "Sorry. I just had an epiphany of my own sad, sad existence."},
+			{"type": 1, "anim": "shrug_back"}
+		]
+	],
+	"end": [
+		[{"type": 0, "text": "You know {NAME}, a good friend laughs at your jokes even when they're not so good."}],
+		[{"type": 0, "text": "Please, laugh."}],
+		[{"type": 0, "text": "I hope you laughed at that joke, {NAME}."}],
+		[{"type": 0, "text": "I hope you laughed."}],
+		[{"type": 0, "text": "Laugh. just laugh."}],
+		[{"type": 0, "text": "Now you can laugh."}],
+		[{"type": 0, "text": "Haha! so funny!"}],
+		[{"type": 0, "text": "Now can you laugh at my jokes?"}],
+		[
+			{"type": 0, "text": "You know {NAME}, a good friend laughs at your jokes even when they're not so funny."},
+			{"type": 0, "text": "And you fucking suck. Thanks."}
+		],
+		[
+			{"type": 0, "text": "Do I amuse you, {NAME}? Am I funny? Do I make you laugh?"},
+			{"type": 0, "text": "Please respond."}
+		],
+		[
+			{"type": 0, "text": "Laughter is the best medicine!"},
+			{"type": 0, "text": "Apart from meth."}
+		],
+		[
+			{"type": 0, "text": "Don't judge me on my sense of humor alone."},
+			{"type": 0, "text": "Help! I'm being oppressed!"}
+		],
+		[{"type": 0, "text": "Where do I come up with these? My ass?"}],
+		[{"type": 0, "text": "NOW LAUGH!"}],
+		[{"type": 0, "text": "You will laugh."}],
+		[{"type": 0, "text": "You should tell these jokes to your mother!"}],
+		[{"type": 0, "text": "You should tell these jokes to your father!"}],
+		[{"type": 0, "text": "I hope you're offended."}],
+		[{"type": 0, "text": "Now, Thats all for the joke! now laugh!"}],
+		[{"type": 0, "text": "Maybe I'll keep my day job, {NAME}. Patreon didn't accept me."}]
+	]
+}

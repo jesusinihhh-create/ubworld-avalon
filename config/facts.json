@@ -1,0 +1,105 @@
+[
+        [
+                {"type": 0, "text": "Fun Fact: The skript kiddie of this site didn't bother checking if the text that goes into the dialog box is HTML code."},
+                {"type": 0, "text": "<img src=\"./img/misc/topjej.png\">", "say": "Toppest jej"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that Uranus is 31,518 miles (50,724 km) in diameter?", "say": "Did you know that Yer Anus is 31 thousand 500 and 18 miles in diameter?"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Slaves didn't do anything wrong."},
+                {"type": 0, "text": "That's Plankton's fault."}, 
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "It is impossible to hum while holding your nose."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that god hates sinners?"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know Fukushima was Abandoned city and its Frozened to 2011?"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Windows 8 is worst."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Fune is bad."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Windows 7 is great!"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that WebGL (user) posted NSFW?"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "WebGL (user) is a raged kiddie."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Sida is bad."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "WARIO WORLD IS GOOD!"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "I'd say a fact right now but you should look at this spinning earth instead."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that Luca actually revealed his face?"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ]
+]
